@@ -32,4 +32,4 @@ yarn run dev
 ```
 
 ### Author:
-- Benjamin Ramićs
+- Benjamin Ramić
