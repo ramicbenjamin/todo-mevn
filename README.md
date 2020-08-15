@@ -11,7 +11,7 @@
 
 ### Let's see how it works:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JxBhC3BFRHY/0.jpg)](https://www.youtube.com/watch?v=v=JxBhC3BFRHY)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/JxBhC3BFRHY/0.jpg)](https://youtu.be/JxBhC3BFRHY)
 
 ## How to start app? 
 
