@@ -1,3 +1,8 @@
+> [!NOTE]
+> If you’re coming across this repository years after its creation — please note that my engineering approach and skills have evolved over time.  
+> I keep this project online as part of my learning journey.  
+> You can explore my more recent work at [ramicbenjamin.github.io](https://ramicbenjamin.github.io/).
+
 # Simple To Do App
 
 ###  This app is created for a learning purpose. It uses MEVN stack:
